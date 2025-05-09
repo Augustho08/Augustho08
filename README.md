@@ -1,4 +1,4 @@
-<h1 align="center">PECINHA DO MALL</h1>
+<h1 align="center">PECINHA DO MAL</h1>
 <p align="center">💻 Professional in disrepair | 🎭 Mestre da Manipulação | 🧠 Traficante de Informação</p>
 
 ---
