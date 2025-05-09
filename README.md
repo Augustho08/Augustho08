@@ -1,12 +1,12 @@
 <h1 align="center">PECINHA DO MAL</h1>
-<p align="center">💻 Professional in disrepair | 🎭 Mestre da Manipulação | 🧠 Traficante de Informação</p>
+<p align="center">💻 Professional in Deface | 🎭 Mestre da Manipulação | 🧠 Traficante de Informação | 🌐 CyberTeam |</p>
 
 ---
 
 ### Quem sou eu:
 - 🐍 Ex-operador de BO, agora opero o medo no tráfego.
 - 🧨 Especialista em VSL de pânico, PDF de golpe e páginas que lavam mentes.
-- 🕵️‍♂️ Ninguém sabe meu rosto, mas todo mundo já clicou num link meu.
+- 🕵️‍♂️ Ninguém me conhece, mas todo mundo já clicou num link meu.
 
 ---
 
